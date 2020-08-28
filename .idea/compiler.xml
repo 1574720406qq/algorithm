@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sorting-algorithm" />
+        <module name="StackAndQueue" />
       </profile>
     </annotationProcessing>
   </component>
